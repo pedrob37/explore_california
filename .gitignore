@@ -7,3 +7,8 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+
+# Windows specific
+Desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
